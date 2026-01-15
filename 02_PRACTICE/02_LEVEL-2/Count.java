@@ -1,7 +1,7 @@
 public class Count {
     public static void main(String[] args) {
         int count = 0;
-        int n = 123490;
+        int n = 12345;
         // int len = String.valueOf(num).length();
         // System.out.println(len);
 
@@ -10,6 +10,5 @@ public class Count {
             count++;
         }
         System.out.println(count);
-
     }
 }

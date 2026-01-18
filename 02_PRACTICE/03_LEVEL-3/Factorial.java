@@ -5,5 +5,6 @@ public class Factorial {
             fact *= (n-i);
         }
         System.out.println("Factorial of " + n + " is " + fact);
+        
     }
 }

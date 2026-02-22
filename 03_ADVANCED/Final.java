@@ -14,7 +14,7 @@ public class Final {
             //     System.out.println("F1");
             // }
         }
-        final int pi = 3.14;
+        final double pi = 3.14;
         // pi = 21; // not initailize again
         System.out.println(pi);
     }
